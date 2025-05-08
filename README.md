@@ -13,17 +13,11 @@ A sleek and fully functional Analog Clock built using HTML, CSS, and JavaScript.
 🌐 Fully responsive design, adapting to any screen size.
 
 🎨 Clean and modern user interface.
-🚀 How to Use
 
-Clone the repository:
-
-git clone https://github.com/yourusername/analog-clock-js.git
-
-Open the index.html file directly in your browser.
 
 🌐 Live Demo
 
-Experience it live here: Analog Clock - Live Demo
+Experience it live here: https://analogclockkjs.netlify.app/
 
 ⚙️ How It Works
 
